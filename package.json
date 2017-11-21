@@ -1,5 +1,5 @@
 {
-  "name": "winston-logstash",
+  "name": "@bstream/winston-logstash",
   "version": "0.3.0",
   "description": "A Logstash transport for winston",
   "main": "./lib/winston-logstash",
