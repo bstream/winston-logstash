@@ -1,6 +1,6 @@
 {
   "name": "@bstream/winston-logstash",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A Logstash transport for winston",
   "main": "./lib/winston-logstash",
   "homepage": "https://github.com/jaakkos/winston-logstash",
